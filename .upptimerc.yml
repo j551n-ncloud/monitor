@@ -15,14 +15,10 @@ sites:
     url: https://gitlab.j551n.com
   - name: Vs Code
     url: https://code.j551n.com
-  - name: Notes
-    url: https://notes.j551n.com
   - name: Vault
     url: https://vault.j551n.com
   - name: Docu sign
     url: https://sign.j551n.com
-  - name: Music
-    url: https://music.j551n.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
