@@ -37,4 +37,4 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/j551n-ncloud/Monitor
+      href: https://github.com/$OWNER/$REPO
