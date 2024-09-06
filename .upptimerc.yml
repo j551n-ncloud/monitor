@@ -19,12 +19,6 @@ sites:
     url: https://vault.j551n.com
   - name: Docu sign
     url: https://sign.j551n.com
-  - name: N-Cloud
-    url: https://cloud.j551n.com
-  - name: Repo
-    url: https://repo.j551n.com
-  - name: MC
-    url: https://mc.j551n.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
