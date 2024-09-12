@@ -13,7 +13,7 @@ sites:
     url: https://bookstack.j551n.com
   - name: Gitlab
     url: https://gitlab.j551n.com
-  - name: Vs Code
+  - name: VsCode
     url: https://code.j551n.com
   - name: Vault
     url: https://vault.j551n.com
